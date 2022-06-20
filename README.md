@@ -1,6 +1,1 @@
 # Person-Re-id
-
-- this is the first element of my list
-- this is the second element of my list 
-
-[Edit](https://github.com/msfaMpr/Person-Re-id/edit/master/README.md)

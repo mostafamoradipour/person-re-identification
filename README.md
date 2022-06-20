@@ -3,4 +3,4 @@
 - this is the first element of my list
 - this is the second element of my list 
 
-[edit](https://github.com/msfaMpr/Person-Re-id/edit/master/README.md)
+[Edit](https://github.com/msfaMpr/Person-Re-id/edit/master/README.md)

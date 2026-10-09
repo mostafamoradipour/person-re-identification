@@ -1,0 +1,35 @@
+name: Bug report
+description: Report a reproducible problem in this project
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: Please remove credentials, private datasets, personal data, and proprietary model files from your report.
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: What happened?
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps or notebook cells to reproduce
+      placeholder: Include commands, data layout, and relevant configuration with sensitive values redacted.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment and logs
+      description: Include relevant Python, OS, dependency, model, or dataset version details. Redact secrets.
+    validations:
+      required: false

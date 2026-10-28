@@ -1,5 +1,7 @@
 # Person Re-Identification
 
+![person re-identification workflow](docs/workflow.svg)
+
 A research codebase for person re-identification (Re-ID): matching a person observed in one camera view with images or tracklets from other cameras. The repository includes image- and video-based training pipelines, model variants, evaluation utilities, and a demo.
 
 ## What’s included
